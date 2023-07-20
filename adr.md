@@ -17,7 +17,7 @@ Ici le détail, format libre mais sobre.
 ## Alternatives
 
 + **Ne Rien Faire™** `¯\_(ツ)_/¯`
-  - Il est de bon ton pour l'équipe de choisir ses combats,
+  - Il est de bon pour ton pour l'équipe de choisir ses combats,
     parfois le problème n'est pas si urgent ou si important.
 
 + **alternative**
